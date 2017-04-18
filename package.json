@@ -18,7 +18,7 @@
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-contrib-ui":"2.3.8"
+        "node-red-dashboard":"2.3.8"
         
     },
     "scripts": {
